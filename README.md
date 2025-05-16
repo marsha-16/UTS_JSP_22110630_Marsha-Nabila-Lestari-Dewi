@@ -26,19 +26,19 @@ Pengguna dapat memasukkan nama dan password untuk mengakses halaman index.
 
 ### 📝 Halaman Index
 Halaman ini menampilkan beberapa judul film sesuai genre dan juga terdapat beberapa keterangan lain seperti harga, durasi dan jam tayang.
-![Screenshot 2025-05-16 192527](https://github.com/user-attachments/assets/d6be0464-4e18-414c-aa0b-b5578bd4bbbc)
+![Screenshot 2025-05-16 214515](https://github.com/user-attachments/assets/4dccdfe6-1e86-4beb-b94d-f29e28d757bf)
 
 ### 📝 Halaman Pemesanan
 Halaman ini menampilkan beberapa informasi pemesanan yang harus diisi oleh pengguna.
-![Screenshot 2025-05-16 192615](https://github.com/user-attachments/assets/752d4dc1-68e3-4cab-bd50-bcde8b9c74e3)
+![Screenshot 2025-05-16 214617](https://github.com/user-attachments/assets/16c28a60-5241-41e5-83e7-c70170c02264)
 
 ### 🎟️ Struk Tiket + QR Code
 Halaman ini berisi struk tiket lengkap dengan qr code untuk cetak tiket secara fisik.
-![Screenshot 2025-05-16 192642](https://github.com/user-attachments/assets/ebae75b4-07ed-4ec9-8932-950d8e3a2541)
+![Screenshot 2025-05-16 214644](https://github.com/user-attachments/assets/a67fe4ba-bb16-4ce6-ba25-1cfdf0c39af6)
 
 ### ⚠️ Halaman Cetak Tiket
 Halaman ini menampilkan halaman untuk cetak tiket.
-![Screenshot 2025-05-16 192748](https://github.com/user-attachments/assets/5aac16e5-7138-460b-b61f-ca81a18b719a)
+![Screenshot 2025-05-16 214724](https://github.com/user-attachments/assets/df95812c-032c-4fba-8e8d-e7ad9bce8a20)
 
 ### ⚠️ Halaman Error
 Halaman ini menampilkan error ketika pengguna salah memasukkan nama atau password nya.
